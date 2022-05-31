@@ -1,4 +1,4 @@
-# TERMUX-WELCOME PROJECT BY SNEHITH CHOWDARY
+# TERMUX-WELCOME PROJECT BY Surya Prabhas
 ### Beautify your Termux App With a warm welcome
 
 ## [+] Installation & Usage
@@ -9,7 +9,7 @@ apt install git -y
 
 pkg install mpv -y
 
-git clone https://github.com/itzr00tbyte/TERMUX-WELCOME
+git clone https://github.com/suryaprabhas1245/TERMUX-WELCOME
 
 cd TERMUX-WELCOME
 
@@ -31,7 +31,6 @@ bash rvt.sh
 
     
 ## [+] Find Me on :
-#### Telegram :https://t.me/certified_youtuber
-#### Join cahnnel and Show your love :https://t.me/scriptKiddiesvR
-##### Youtube channel :https://www.youtube.com/c/scriptkiddietelugu
+#### Telegram :https://t.me/suryaprabhas1245
+#### Join cahnnel and Show your love :https://t.me/TeluguDubbedHorrorMovies2
 
